@@ -33,5 +33,5 @@ Check out a few of my latest projects:
 .
 
 ```shell
-$ echo aGF2ZSBhIGdyZWF0IGRheQ== | base64 -d
+echo aGF2ZSBhIGdyZWF0IGRheQ== | base64 -d
 ```
