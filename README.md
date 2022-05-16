@@ -5,7 +5,7 @@ Check out a few of my latest projects:
 ### Jobbed (https://jobbed.io)
 A job board aggregated targetted towards contractors
 
-### Glasto (https://glasto.io)
+### Glasto (https://glasto.io) - Coming Soon!
 How many artists at Glastonbury appear in your Spotify playlists?
 
 ### Jck.dev (https://jck.dev)
