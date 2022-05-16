@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<!-- START -->
-<!-- END -->
+<!-- START --><!-- END -->
+
+---
 
 Check out a few of my latest projects:
 
