@@ -1,4 +1,7 @@
-## Hi there 👋
+### Hi there 👋
+
+<!-- START -->
+<!-- END -->
 
 Check out a few of my latest projects:
 
@@ -22,3 +25,13 @@ Check out a few of my latest projects:
 
 1. #### Strongr (https://strongr.vercel.app)
     An aggregation of all my workouts, with statistics overtime.
+
+.
+.
+.
+.
+.
+
+```shell
+$ echo aGF2ZSBhIGdyZWF0IGRheQ== | base64 -d
+```
