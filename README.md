@@ -27,6 +27,9 @@ Check out a few of my latest projects:
 1. #### Strongr (https://strongr.vercel.app)
     An aggregation of all my workouts, with statistics overtime.
 
+1. #### Firebase Playground (https://firebase-play.vercel.app)
+    A playground for firebase components
+
 .
 .
 .
