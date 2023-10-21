@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 <a href="http://jck.dev" height="100%">
-<img width="49%"  src="https://github-readme-stats.vercel.app/api?username=jackall3n&show_icons=true&include_all_commits=true&hide_title=true&hide_rank=true&hide_border=true&theme=dark" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackall3n&include_all_commits=true&show_icons=true&layout=compact&langs_count=8&hide_title=true&hide_border=true&theme=dark" />
+<img width="100%"  src="https://jack-github-stats.vercel.app/api?username=jackall3n&show_icons=true&include_all_commits=true&hide_title=true&hide_rank=false&hide_border=true&theme=dark" />
+<img width="100%" src="https://jack-github-stats.vercel.app/api/top-langs/?username=jackall3n&include_all_commits=true&show_icons=true&layout=compact&langs_count=8&hide_title=true&hide_border=true&theme=dark" />
 </a>
-<img  width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jackall3n&show_icons=true&hide_title=true&hide_border=true&theme=dark&langs_count=6&layout=compact" />
-
+<img  width="100%" src="https://jack-github-stats.vercel.app/api/wakatime?username=jackall3n&show_icons=true&hide_title=true&hide_border=true&theme=dark&langs_count=6&layout=compact" />
 <!-- START --><!-- END -->
 
 ---
