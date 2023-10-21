@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-<a href="https://jck.dev"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=jackall3n&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackall3n&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" /></a>
+<a href="https://jck.dev" style="display:flex">
+<img height="150px" src="https://github-readme-stats.vercel.app/api/wakatime?username=jackall3n&show_icons=true&hide_title=true&hide_border=true&theme=lightgray&langs_count=10&layout=compact" /><img height="150px" src="https://github-readme-stats.vercel.app/api?username=jackall3n&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&theme=lightgray" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackall3n&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=lightgray" />
+    </div>
+</a>
 
 <!-- START --><!-- END -->
 
